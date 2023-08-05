@@ -1,0 +1,1 @@
+java.lang.ArithmeticException,Arithmetic Exception occured,major,Application,main,04-08-2023
